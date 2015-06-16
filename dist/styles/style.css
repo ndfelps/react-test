@@ -1,0 +1,40 @@
+body {
+	margin: 0;
+	padding: 0;
+	width: 100%;
+}
+
+img {
+	width: 400px;
+}
+h2 {
+	text-align: center;
+	font-family: sans-serif;
+	color: white;
+}
+header {
+	height: 80px;
+	background-color: rgb(121, 149, 38);
+	padding: 15px;
+	margin-bottom: 15px;
+	padding-top: 5px;
+}
+#blog {
+	width: 80%;
+	height: 150px;
+}
+#page {
+	padding-left: 5%;
+	padding-right: 5%;
+	text-align: center;
+}
+a {
+	text-decoration: none;
+	color: white;
+	margin-right: 10px;
+	text-align: left;
+	font-size: 10px;
+}
+#logout {
+	display: none;
+}
